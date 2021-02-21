@@ -57,7 +57,7 @@ def create_file(FILE_NAME):
         return
     else:
         f = open(FILE_NAME, 'w')
-        f.write(str('1363418973887430657'))
+        f.write(str('ENTER LAST USER STATUS ID'))
         f.close()
         return
 
