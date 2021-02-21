@@ -1,0 +1,8 @@
+#keys.py
+#visit https://dev.twitter.com to create an application and get your keys
+keys = dict(
+	consumer_key =          'ENTER CONSUMER KEY HERE',
+	consumer_secret =       'ENTER CONSUMER SECRET HERE',
+	access_token =          'ENTER ACCESS TOKEN HERE',
+	access_token_secret =   'ENTER ACCESS TOKEN SECRET HERE',
+)
